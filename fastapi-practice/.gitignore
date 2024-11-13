@@ -1,0 +1,24 @@
+# Python-related files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+fastapi-env/
+
+# # Environment variables
+# .env
+
+# Database files
+*.db
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings (optional)
+.vscode/
